@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mrsan/static/css/main.3f6b66fb.css",
+    "main.js": "/mrsan/static/js/main.813818d8.js",
+    "static/media/template.jpg": "/mrsan/static/media/template.740fbb5f438861ffcb54.jpg",
+    "index.html": "/mrsan/index.html",
+    "main.3f6b66fb.css.map": "/mrsan/static/css/main.3f6b66fb.css.map",
+    "main.813818d8.js.map": "/mrsan/static/js/main.813818d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f6b66fb.css",
+    "static/js/main.813818d8.js"
+  ]
+}
